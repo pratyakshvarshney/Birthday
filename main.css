@@ -48,7 +48,7 @@ body {
   border-radius: 5px;
   margin: 0 auto;
   padding: 10px;
-  height: 400px;
+  height: 550px;
   position: relative;
   width: 600px;
 }
@@ -336,6 +336,7 @@ body {
 #back10:hover, #forward10:hover {
     opacity: 1;
 }
+
 
 
 
